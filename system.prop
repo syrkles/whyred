@@ -195,3 +195,4 @@ ro.sys.fw.dex2oat_thread_count=8
 ro.min.fling_velocity=160
 ro.max.fling_velocity=20000
 
+ro.mod.version=noob
