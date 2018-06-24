@@ -276,4 +276,3 @@ sys.usb.rmnet.func.name=rmnet_bam
 # Wlan
 PRODUCT_PROPERTY_OVERRIDES += \
 wifi.interface=wlan0
-
