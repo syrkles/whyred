@@ -1,0 +1,18 @@
+[
+  {
+    "remote":      "github"
+    "repository":  "syrkles/whyred"
+    "target_path": "device/xiaomi/whyred"
+    "branch":      "DU"
+    "remote":      "github",
+    "repository":  "akhilnarang/kernel_xiaomi_whyred",
+    "target_path": "kernel/xiaomi/sdm660",
+    "branch":      "oreo-mr1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "mdeejay/vendor_xiaomi",
+    "target_path": "vendor/xiaomi"
+    "branch":      "aligot-release"
+  }
+]
